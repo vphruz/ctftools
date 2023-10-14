@@ -1,7 +1,7 @@
 # Binary exploitation
 # Cryptography
 # Forensics
-  - Web broiler history viewer https://browserhistoryreader.com/MicrosoftEdgeHistory
+  - Web browser history viewer https://browserhistoryreader.com/MicrosoftEdgeHistory
 # Miscellaneous
   - Js deobfuscator https://lelinhtinh.github.io/de4js/
   - Online sqlite viewer https://sqliteviewer.app/#/History.sqlite/table/urls/
@@ -21,5 +21,5 @@
   - Outguess
   - https://alternativeto.net/software/outguess/
   - https://www.aperisolve.com/
-  - 
+  - aperisolve.com
 # Web
