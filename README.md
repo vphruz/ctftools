@@ -8,6 +8,7 @@
   - https://esolangs.org/wiki/Language_list
   - Reverse shell? - https://github.com/PentestoMonkey/icons
   - https://ericzimmerman.github.io/#!index.md (windows tools-forensics)
+  - md5 collision https://www.mscs.dal.ca/~selinger/md5collision/
 # Osint
   - namechk.com
   - About.me
