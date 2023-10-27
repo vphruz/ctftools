@@ -11,6 +11,7 @@
   - md5 collision https://www.mscs.dal.ca/~selinger/md5collision/
   - cookies jwt.io
   - flask cookies https://github.com/Paradoxis/Flask-Unsign
+  - discord snowflake thingy https://discord-avatar.com/en/server
 # Osint
   - namechk.com
   - About.me
